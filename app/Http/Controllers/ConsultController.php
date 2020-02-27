@@ -47,7 +47,6 @@ class ConsultController extends Controller
         return strtolower($obj['Major_Genre']) == strtolower($request->Major_Genre);
       });
     }
-
     return response($data->paginate(10), 200);
   }
 
