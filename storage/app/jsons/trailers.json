@@ -1,0 +1,101 @@
+[
+  {
+    "title":"Mad Max: Furia en el camino",
+    "genre":"Accion",
+    "release_date":"14-05-2015",
+    "rating":"4.5",
+    "director":"George Miller",
+    "actors":["Tom Hardy", "Nico Hault"],
+    "url":"https://www.youtube.com/embed/hEJnMQG9ev8"
+  },
+  {
+    "title":"Rambo: Last Blood",
+    "genre":"Accion",
+    "release_date":"10-10-2019",
+    "rating":"3.9",
+    "director":"Adrian",
+    "actors":["Rambo himself", "Sergio"],
+    "url":"https://www.youtube.com/embed/YPuhNtG47M0"
+  },
+  {
+    "title":"Memory: The Origins of Alien",
+    "genre":"Terror",
+    "release_date":"",
+    "rating":"4.2",
+    "director":"David Cameron",
+    "actors":["Bijan", "Adrian"],
+    "url":"https://www.youtube.com/embed/uuxwl6LIixE"
+  },
+  {
+    "title":"Tonto y retonto",
+    "genre":"Comedia",
+    "release_date":"13-07-1994",
+    "rating":"4.8",
+    "director":"Bobby Brown",
+    "actors":["Jim Carrey", "Jeff D"],
+    "url":"https://www.youtube.com/embed/l13yPhimE3o"
+  },
+  {
+    "title":"Scream",
+    "genre":"Terror",
+    "release_date":"11-09-1996",
+    "rating":"3.5",
+    "director":"Kevin W",
+    "actors":["C Cox", "David A"],
+    "url":"https://www.youtube.com/embed/AWm_mkbdpCA"
+  },
+  {
+    "title":"Cult of Chucky",
+    "genre":"Terror",
+    "release_date":"03-10-2017",
+    "rating":"3.8",
+    "director":"Don M",
+    "actors":["Brad D", "Chucky"],
+    "url":"https://www.youtube.com/embed/20LeBoejmF4"
+  },
+  {
+    "title":"Hey, dónde está mi auto?",
+    "genre":"Comedia",
+    "release_date":"14-08-2001",
+    "rating":"5",
+    "director":"Danny L",
+    "actors":["Ashton K", "Stifler"],
+    "url":"https://www.youtube.com/embed/yshHuJlVRos"
+  },
+  {
+    "title":"La máscara",
+    "genre":"Comedia",
+    "release_date":"29-12-1994",
+    "rating":"4.2",
+    "director":"Mike F",
+    "actors":["Jim C", "C Diaz"],
+    "url":"https://www.youtube.com/embed/LZl69yk5lEY"
+  },
+  {
+    "title":"Terminator: Destino oculto",
+    "genre":"Accion",
+    "release_date":"31-10-2019",
+    "rating":"2.8",
+    "director":"J Cameron",
+    "actors":["Arnold", "M Davis"],
+    "url":"https://www.youtube.com/embed/jCyEX6u-Yhs"
+  },
+  {
+    "title":"Titanic",
+    "genre":"Drama",
+    "release_date":"05-02-1998",
+    "rating":"4.6",
+    "director":"James C",
+    "actors":["Leo D", "Kate W"],
+    "url":"https://www.youtube.com/embed/2e-eXJ6HgkQ"
+  },
+  {
+    "title":"Diario de una pasión",
+    "genre":"Drama",
+    "release_date":"28-10-2004",
+    "rating":"4.5",
+    "director":"J Lewis",
+    "actors":["James", "Rachel"],
+    "url":"https://www.youtube.com/embed/yDJIcYE32NU"
+  }
+]
